@@ -81,9 +81,9 @@ n	🔄 Normal mode
 k	📍 Log keypoint dataset  
 h	👉 Log point history dataset  
 0–9	🔢 Label number  
-🗂 Dataset Logging  
 
-## The system allows you to collect training data for new gestures  
+## 🗂 Dataset Logging  
+The system allows you to collect training data for new gestures  
 📍 Keypoint Dataset  
 Press: k + number (0-9)  
 Saved to: model/keypoint_classifier/keypoint.csv  
