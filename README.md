@@ -6,8 +6,7 @@ It detects hand landmarks using MediaPipe, processes the landmark data, and clas
 The application runs in real-time using OpenCV and provides visual feedback with hand skeletons, gesture labels, and FPS.     
 
 ## 🛠 Technologies Used  
-Python, OpenCV, MediaPipe, NumPy   
-
+Python, OpenCV, MediaPipe, NumPy.   
 The system supports:  
 📷 Real-time webcam gesture detection  
 ✋ Static hand gesture recognition (hand signs)  
