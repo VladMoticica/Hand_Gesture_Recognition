@@ -30,6 +30,7 @@ Webcam Input
       │  
       └── 👉 Dynamic Gesture Recognition (PointHistoryClassifier) 
       │  
+      │  
       ▼  
 🖥 Visualization & Display  
 
