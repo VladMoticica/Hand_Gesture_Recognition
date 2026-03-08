@@ -4,9 +4,8 @@
 This project implements a real-time hand gesture recognition system using a webcam.   
 It detects hand landmarks using MediaPipe, processes the landmark data, and classifies gestures using machine learning models.   
 The application runs in real-time using OpenCV and provides visual feedback with hand skeletons, gesture labels, and FPS.     
+Technologies Used: Python, OpenCV, MediaPipe, NumPy.   
 
-## 🛠 Technologies Used  
-Python, OpenCV, MediaPipe, NumPy.   
 The system supports:  
 📷 Real-time webcam gesture detection  
 ✋ Static hand gesture recognition (hand signs)  
