@@ -85,7 +85,7 @@ Right: Open
 Finger Gesture: Circle  
 FPS: 30  
 
-## 🧩 Key Functions Explained  
+## 🧩 Functions Explained  
 📍 calc_landmark_list()  
 Extracts pixel coordinates of the detected hand landmarks.  
 
