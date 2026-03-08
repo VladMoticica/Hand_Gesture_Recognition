@@ -1,4 +1,4 @@
-# ✋ Hand Gesture Recognition with MediaPipe
+# Hand Gesture Recognition with MediaPipe
 
 ## 📌 Overview
 This project implements a real-time hand gesture recognition system using a webcam.   
