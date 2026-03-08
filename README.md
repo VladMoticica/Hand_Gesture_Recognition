@@ -27,11 +27,9 @@ Webcam Input
       ▼  
 📍 Landmark Extraction (21 points)    
       │  
-      ├── 🧠 Static Gesture Recognition  
-      │      (KeyPointClassifier)  
+      ├── 🧠 Static Gesture Recognition (KeyPointClassifier)     
       │  
-      └── 👉 Dynamic Gesture Recognition  
-             (PointHistoryClassifier)  
+      └── 👉 Dynamic Gesture Recognition (PointHistoryClassifier) 
       │  
       ▼  
 🖥 Visualization & Display  
