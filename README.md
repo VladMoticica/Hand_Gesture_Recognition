@@ -53,27 +53,6 @@ project/
 │  
 └── README.md  
 
-## ⚙️ Requirements
-Install the required dependencies:  
-pip install opencv-python mediapipe numpy  
-  
-Optional:  
-pip install argparse    
-
-## 🚀 Running the Application  
-Run the program: 
-
-python app.py  
-Optional arguments:  
---device                (camera index (default=0))  
---width                 (capture width (default=960))    
---height                (capture height (default=540))    
---min_detection_confidence  
---min_tracking_confidence  
-
-Example: 
-python app.py --device 0 --width 1280 --height 720  
-
 ## 🎮 Keyboard Controls  
 Key	Action   
 ESC	❌ Exit program  
@@ -121,3 +100,24 @@ Draws the hand skeleton and finger joints on the frame.
 
 🗂 logging_csv()  
 Stores gesture data for training custom classifiers.  
+
+## ⚙️ Requirements
+Install the required dependencies:  
+pip install opencv-python mediapipe numpy  
+  
+Optional:  
+pip install argparse    
+
+## 🚀 Running the Application  
+Run the program: 
+
+python app.py  
+Optional arguments:  
+--device                (camera index (default=0))  
+--width                 (capture width (default=960))    
+--height                (capture height (default=540))    
+--min_detection_confidence  
+--min_tracking_confidence  
+
+Example: 
+python app.py --device 0 --width 1280 --height 720  
